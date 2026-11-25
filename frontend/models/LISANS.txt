@@ -1,0 +1,4 @@
+3B modeller: Quaternius (poly.pizza üzerinden), lisans: Public Domain (CC0)
+- cow.glb    https://poly.pizza/m/26zM1outCr
+- worker.glb https://poly.pizza/m/Yg2bQZO6Hj
+- truck.glb  https://poly.pizza/m/cXw6oiFtZ8
